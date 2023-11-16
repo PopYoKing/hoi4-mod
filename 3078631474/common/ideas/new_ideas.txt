@@ -1,0 +1,27 @@
+ideas = {
+
+	country = {
+		japanese_investments = {
+			picture = generic_foreign_capital
+			
+			allowed = {
+			original_tag = SIA	
+			}
+			
+			available 
+		
+			cost = 0  
+		
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = 0
+			
+			modifier = {
+				industrial_capacity_factory = 0.10
+				consumer_goods_factor = -0.15
+			}
+		}
+	}
+	}

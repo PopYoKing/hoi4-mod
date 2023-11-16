@@ -1,0 +1,18 @@
+AST_USO = {
+    color = rgb { 54 215 215 }
+    color_ui = rgb { 58 220 220 }
+}
+
+SPR_anarchist_spain = {
+	color = rgb { 200 4 4 }
+	color_ui = rgb { 35 35 35 }
+}
+
+SPR_carlist_spain = {
+	color = rgb { 255 128 0 }
+	color_ui = rgb { 255 255 122 }
+}
+
+SPR_republican_spain = {
+	color = rgb { 142 17 144 }
+	color_ui = rgb { 255 255 122 }
